@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bonjour</string>
+    <string name="hello_world">Bonjour tout le monde!</string>
+    <string name="action_settings">paramètres</string>
+    <string name="Happy Birthday">Joyeux Anniversaire</string>
+
+</resources>
